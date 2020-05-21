@@ -83,7 +83,7 @@ public class MainActivity extends AppCompatActivity {
                     Toast.makeText(MainActivity.this, "3R Informática - Suporte Técnico Especializado", Toast.LENGTH_SHORT).show();
                 }
                 if (position == 10) {
-                    Toast.makeText(MainActivity.this, "Casa da Merenda - Sr. Dedé & Família", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(MainActivity.this, "Casa da Merenda - Sr. Dedé & Família do pão de queio", Toast.LENGTH_SHORT).show();
                 }
                 if (position == 11) {
                     Toast.makeText(MainActivity.this, "Castro - Costurando Ideias", Toast.LENGTH_SHORT).show();
